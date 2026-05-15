@@ -1,2 +1,2 @@
-# sistema-aprovados
-Sistema desenvolvido em Python para cadastrar candidatos aprovados em um vestibular e realizar a consulta de nomes, verificando se determinado candidato foi aprovado ou não.
+#Sistema de aprovados em um vestibular
+Aplicação em Python que utiliza listas e estruturas de repetição para registrar candidatos aprovados em um vestibular e permitir a busca de nomes, informando se o candidato está entre os aprovados.
